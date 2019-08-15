@@ -18,11 +18,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Sterling's Portfolio Site`,
-        short_name: `My Portfolio`,
+        name: `Sterling May's Web Development Portfolio`,
+        short_name: `Sterling's Portfolio`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
