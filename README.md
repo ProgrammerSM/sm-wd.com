@@ -1,7 +1,10 @@
-Current Netlify Build Status:
+# My portfolio site
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/86ecd734-d5b7-48a7-99ce-d9f51ed796b0/deploy-status)](https://app.netlify.com/sites/sm-wd/deploys)
 
-# My portfolio site
+**Note:** The project is using [Gatsby](https://www.gatsbyjs.org/)
 
-A site where I work on personal projects, and show examples of my development and design skills and knowledge.
+A repo that contains my portfolio site.
+
+## Features ##
+- So far, not much
