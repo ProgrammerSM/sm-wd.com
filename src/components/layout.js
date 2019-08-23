@@ -2,32 +2,22 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { StaticQuery, graphql } from 'gatsby'
 
+import { ThemeProvider } from 'emotion-theming'
+import theme from '../assets/theme'
+
+import '../assets/reset.scss'
+import '../assets/layout.scss'
+
 import Header from './header'
-import './layout.css'
-import Overlay from './overlay'
 
 const Layout = ({ children }) => (
-  <StaticQuery
-    query={graphql`
-      query SiteTitleQuery {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `}
-    render={data => (
-      <>
-        <Header siteTitle={data.site.siteMetadata.title} />
-        <div>
-          <main>{children}</main>
-          <footer/>
-        </div>
-        <Overlay/>
-      </>
-    )}
-  />
+  <ThemeProvider theme={theme}>
+    <Header/>
+    <div>
+      <main>{children}</main>
+      <footer/>
+    </div>
+  </ThemeProvider>
 )
 
 Layout.propTypes = {
