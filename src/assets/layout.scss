@@ -4,8 +4,7 @@
 
 body {
   font-family: 'Fira Sans', sans-serif;
-  font-size: 1rem;
-  line-height: 1.6;
+  font-size: 1em;
 }
 
 h1,
@@ -15,13 +14,24 @@ h3 {
 }
 
 h1 {
+  margin: 0 0 .3em;
   font-size: 3.052rem;
+  line-height: 1.4;
 }
 
 h2 {
+  margin: 0 0 .45em;
   font-size: 2.441rem;
+  line-height: 1.4;
 }
 
 h3 {
+  margin: 0 0 .3em;
   font-size: 1.953rem;
+  line-height: 2;
+}
+
+p {
+  margin: 0 0 1.5em;
+  line-height: 1.5;
 }
