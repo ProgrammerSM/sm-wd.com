@@ -6,6 +6,7 @@ import { ThemeProvider } from 'emotion-theming'
 import theme from '../assets/theme'
 import styled from '@emotion/styled'
 
+import '../assets/reset.scss'
 import '../assets/layout.scss'
 
 import Header from './header'
