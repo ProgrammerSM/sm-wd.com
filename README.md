@@ -8,4 +8,10 @@ The intent is to showcase my skills as a developer/designer, to market myself in
 
 ## Features ##
 - Project is build on [Gatsby](https://www.gatsbyjs.org/)
-- Uses [Emotion](https://www.npmjs.com/package/emotion) for styling
+- Uses [Emotion](https://emotion.sh/docs/introduction) for styling
+- Utilizing [Theme Provider](https://emotion.sh/docs/theming) for global styles
+
+## Other Package info ##
+
+- gatsby-plugin-sass is being used to set base styles and css resets for cross-browser compatibility
+- [yarn-upgrade-all](https://www.npmjs.com/package/yarn-upgrade-all) is used to update all package
