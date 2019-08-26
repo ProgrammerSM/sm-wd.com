@@ -17,6 +17,14 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
     {
+      resolve: 'gatsby-source-graphql',
+      options: {
+        typeName: 'treehouse',
+        fieldName: 'treehouseSM',
+        url: 'https://teamtreehouse.com/sterlingmay.json'
+      }
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Sterling May's Web Development Portfolio`,
