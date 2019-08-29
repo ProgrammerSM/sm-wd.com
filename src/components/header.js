@@ -8,27 +8,13 @@ const HeaderWrapper = styled.div`
   margin-bottom: 1.45rem;
 
   div {
-    margin: 0 auto;
-    max-width: 960px;
-    padding: 1.45rem 1.0875rem;
+    font-size: 60px;
   }
 `
 
 const Header = () => (
   <HeaderWrapper>
-    <div>
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: `white`,
-            textDecoration: `none`,
-          }}
-        >
-          Hello Josh
-        </Link>
-      </h1>
-    </div>
+    <Link to="/">SM-WD</Link>
   </HeaderWrapper>
 )
 

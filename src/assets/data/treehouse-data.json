@@ -1,0 +1,3162 @@
+{
+  "name":"Sterling May",
+  "profile_name":"sterlingmay",
+  "profile_url":"https://teamtreehouse.com/sterlingmay",
+  "gravatar_url":"https://uploads.teamtreehouse.com/production/profile-photos/10732569/avatar_Sterling-2.jpg",
+  "gravatar_hash":"d01e489109fa639f977062f8d63f6d5e",
+  "badges":[
+    {
+      "id":49,
+      "name":"Newbie",
+      "url":"https://teamtreehouse.com/sterlingmay",
+      "icon_url":"https://achievement-images.teamtreehouse.com/Generic_Newbie.png",
+      "earned_date":"2019-04-24T21:56:57.000Z",
+      "courses":[
+
+      ]
+    },
+    {
+      "id":12872,
+      "name":"Introducing JavaScript",
+      "url":"https://teamtreehouse.com/library/introducing-javascript/lets-make-a-game",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage1-introducing-javascript.png",
+      "earned_date":"2019-04-27T05:36:00.000Z",
+      "courses":[
+        {
+          "title":"Introducing JavaScript",
+          "url":"https://teamtreehouse.com/library/introducing-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"Let's Make a Game",
+          "url":"https://teamtreehouse.com/library/introducing-javascript/lets-make-a-game",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14002,
+      "name":"Finishing the Game",
+      "url":"https://teamtreehouse.com/library/introducing-javascript/finishing-the-game",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage2-introducing-js.png",
+      "earned_date":"2019-05-01T04:47:10.000Z",
+      "courses":[
+        {
+          "title":"Introducing JavaScript",
+          "url":"https://teamtreehouse.com/library/introducing-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"Finishing the Game",
+          "url":"https://teamtreehouse.com/library/introducing-javascript/finishing-the-game",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2122,
+      "name":"Introducing JavaScript",
+      "url":"https://teamtreehouse.com/library/javascript-basics/introducing-javascript",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage1.png",
+      "earned_date":"2019-05-01T05:47:30.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Basics",
+          "url":"https://teamtreehouse.com/library/javascript-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Introducing JavaScript",
+          "url":"https://teamtreehouse.com/library/javascript-basics/introducing-javascript",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8692,
+      "name":"Getting Familiar with HTML and CSS ",
+      "url":"https://teamtreehouse.com/library/introduction-to-html-and-css/-getting-familiar-with-html-and-css",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_intro_to_html_css_stage-01.png",
+      "earned_date":"2019-05-04T04:33:07.000Z",
+      "courses":[
+        {
+          "title":"Introduction to HTML and CSS",
+          "url":"https://teamtreehouse.com/library/introduction-to-html-and-css",
+          "badge_count":1
+        },
+        {
+          "title":" Getting Familiar with HTML and CSS ",
+          "url":"https://teamtreehouse.com/library/introduction-to-html-and-css/-getting-familiar-with-html-and-css",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8702,
+      "name":"HTML: The Structural Foundation of Web Pages and Applications",
+      "url":"https://teamtreehouse.com/library/introduction-to-html-and-css/html-the-structural-foundation-of-web-pages-and-applications",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_intro_to_html_css_stage-02.png",
+      "earned_date":"2019-05-04T04:33:08.000Z",
+      "courses":[
+        {
+          "title":"Introduction to HTML and CSS",
+          "url":"https://teamtreehouse.com/library/introduction-to-html-and-css",
+          "badge_count":1
+        },
+        {
+          "title":"HTML: The Structural Foundation of Web Pages and Applications",
+          "url":"https://teamtreehouse.com/library/introduction-to-html-and-css/html-the-structural-foundation-of-web-pages-and-applications",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8712,
+      "name":"Make It Beautiful with CSS",
+      "url":"https://teamtreehouse.com/library/introduction-to-html-and-css/make-it-beautiful-with-css",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_intro_to_html_css_stage-03.png",
+      "earned_date":"2019-05-04T04:33:08.000Z",
+      "courses":[
+        {
+          "title":"Introduction to HTML and CSS",
+          "url":"https://teamtreehouse.com/library/introduction-to-html-and-css",
+          "badge_count":1
+        },
+        {
+          "title":"Make It Beautiful With CSS",
+          "url":"https://teamtreehouse.com/library/introduction-to-html-and-css/make-it-beautiful-with-css",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8722,
+      "name":"Adding a New Web Page ",
+      "url":"https://teamtreehouse.com/library/introduction-to-html-and-css/adding-a-new-web-page",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_intro_to_html_css_stage-04.png",
+      "earned_date":"2019-05-04T04:33:08.000Z",
+      "courses":[
+        {
+          "title":"Introduction to HTML and CSS",
+          "url":"https://teamtreehouse.com/library/introduction-to-html-and-css",
+          "badge_count":1
+        },
+        {
+          "title":"Adding a New Web Page ",
+          "url":"https://teamtreehouse.com/library/introduction-to-html-and-css/adding-a-new-web-page",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4282,
+      "name":"Getting Started with CSS",
+      "url":"https://teamtreehouse.com/library/css-basics/getting-started-with-css",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_basics_stage1.png",
+      "earned_date":"2019-05-04T05:09:33.000Z",
+      "courses":[
+        {
+          "title":"CSS Basics",
+          "url":"https://teamtreehouse.com/library/css-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with CSS",
+          "url":"https://teamtreehouse.com/library/css-basics/getting-started-with-css",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4292,
+      "name":"Basic Selectors",
+      "url":"https://teamtreehouse.com/library/css-basics/basic-selectors",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_basics_stage2.png",
+      "earned_date":"2019-05-04T05:09:33.000Z",
+      "courses":[
+        {
+          "title":"CSS Basics",
+          "url":"https://teamtreehouse.com/library/css-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Basic Selectors",
+          "url":"https://teamtreehouse.com/library/css-basics/basic-selectors",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4302,
+      "name":"Understanding Values and Units",
+      "url":"https://teamtreehouse.com/library/css-basics/understanding-values-and-units",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_basics_stage3.png",
+      "earned_date":"2019-05-04T05:09:33.000Z",
+      "courses":[
+        {
+          "title":"CSS Basics",
+          "url":"https://teamtreehouse.com/library/css-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Understanding Values and Units",
+          "url":"https://teamtreehouse.com/library/css-basics/understanding-values-and-units",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4452,
+      "name":"The Box Model",
+      "url":"https://teamtreehouse.com/library/css-basics/the-box-model",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_basics_stage4.png",
+      "earned_date":"2019-05-04T05:09:33.000Z",
+      "courses":[
+        {
+          "title":"CSS Basics",
+          "url":"https://teamtreehouse.com/library/css-basics",
+          "badge_count":1
+        },
+        {
+          "title":"The Box Model",
+          "url":"https://teamtreehouse.com/library/css-basics/the-box-model",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4312,
+      "name":"Basic Layout",
+      "url":"https://teamtreehouse.com/library/css-basics/basic-layout",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_basics_stage5.png",
+      "earned_date":"2019-05-04T05:09:34.000Z",
+      "courses":[
+        {
+          "title":"CSS Basics",
+          "url":"https://teamtreehouse.com/library/css-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Basic Layout",
+          "url":"https://teamtreehouse.com/library/css-basics/basic-layout",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4332,
+      "name":"Designing with the Latest Features",
+      "url":"https://teamtreehouse.com/library/css-basics/enhancing-the-design-with-css",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_basics_stage6.png",
+      "earned_date":"2019-05-04T05:09:34.000Z",
+      "courses":[
+        {
+          "title":"CSS Basics",
+          "url":"https://teamtreehouse.com/library/css-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Enhancing the Design With CSS",
+          "url":"https://teamtreehouse.com/library/css-basics/enhancing-the-design-with-css",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4322,
+      "name":"Fundamental Concepts",
+      "url":"https://teamtreehouse.com/library/css-basics/fundamental-concepts",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_basics_stage7.png",
+      "earned_date":"2019-05-04T05:09:34.000Z",
+      "courses":[
+        {
+          "title":"CSS Basics",
+          "url":"https://teamtreehouse.com/library/css-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Fundamental Concepts",
+          "url":"https://teamtreehouse.com/library/css-basics/fundamental-concepts",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5492,
+      "name":"Planning for Performance",
+      "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization/planning-for-performance",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-devtools-performance-stage1.png",
+      "earned_date":"2019-05-06T16:17:07.000Z",
+      "courses":[
+        {
+          "title":"Introduction to Front End Performance Optimization",
+          "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization",
+          "badge_count":1
+        },
+        {
+          "title":"Planning for Performance",
+          "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization/planning-for-performance",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5502,
+      "name":"Measuring Performance",
+      "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization/measuring-performance",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-devtools-performance-stage2.png",
+      "earned_date":"2019-05-06T16:17:07.000Z",
+      "courses":[
+        {
+          "title":"Introduction to Front End Performance Optimization",
+          "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization",
+          "badge_count":1
+        },
+        {
+          "title":"Measuring Performance",
+          "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization/measuring-performance",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5512,
+      "name":"Optimize Assets",
+      "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization/optimize-assets",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-devtools-performance-stage3.png",
+      "earned_date":"2019-05-06T16:17:08.000Z",
+      "courses":[
+        {
+          "title":"Introduction to Front End Performance Optimization",
+          "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization",
+          "badge_count":1
+        },
+        {
+          "title":"Optimize Assets",
+          "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization/optimize-assets",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5522,
+      "name":"Combine and Minify Assets",
+      "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization/combine-and-minify-assets",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-devtools-performance-stage4.png",
+      "earned_date":"2019-05-06T16:17:08.000Z",
+      "courses":[
+        {
+          "title":"Introduction to Front End Performance Optimization",
+          "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization",
+          "badge_count":1
+        },
+        {
+          "title":"Combine and Minify Assets",
+          "url":"https://teamtreehouse.com/library/introduction-to-front-end-performance-optimization/combine-and-minify-assets",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":7402,
+      "name":"Getting Started with CSS Layout",
+      "url":"https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_layout_basics_stage1.png",
+      "earned_date":"2019-05-06T16:50:05.000Z",
+      "courses":[
+        {
+          "title":"CSS Layout Basics",
+          "url":"https://teamtreehouse.com/library/css-layout-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with CSS Layout",
+          "url":"https://teamtreehouse.com/library/css-layout-basics/getting-started-with-css-layout",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":7602,
+      "name":"Controlling Layout with CSS Display Modes",
+      "url":"https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_layout_basics_stage2.png",
+      "earned_date":"2019-05-06T16:50:05.000Z",
+      "courses":[
+        {
+          "title":"CSS Layout Basics",
+          "url":"https://teamtreehouse.com/library/css-layout-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Controlling Layout with CSS Display Modes",
+          "url":"https://teamtreehouse.com/library/css-layout-basics/controlling-layout-with-css-display-modes",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":7612,
+      "name":"Page Layout with the Float Property",
+      "url":"https://teamtreehouse.com/library/css-layout-basics/page-layout-with-the-float-property",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_layout_basics_stage3.png",
+      "earned_date":"2019-05-06T16:50:05.000Z",
+      "courses":[
+        {
+          "title":"CSS Layout Basics",
+          "url":"https://teamtreehouse.com/library/css-layout-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Page Layout with the Float Property",
+          "url":"https://teamtreehouse.com/library/css-layout-basics/page-layout-with-the-float-property",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":7922,
+      "name":"CSS Layout Project",
+      "url":"https://teamtreehouse.com/library/css-layout-basics/css-layout-project",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_layout_basics_stage4.png",
+      "earned_date":"2019-05-06T16:50:05.000Z",
+      "courses":[
+        {
+          "title":"CSS Layout Basics",
+          "url":"https://teamtreehouse.com/library/css-layout-basics",
+          "badge_count":1
+        },
+        {
+          "title":"CSS Layout Project",
+          "url":"https://teamtreehouse.com/library/css-layout-basics/css-layout-project",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":7622,
+      "name":"Positioning Page Content",
+      "url":"https://teamtreehouse.com/library/css-layout-basics/positioning-page-content",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_layout_basics_stage5.png",
+      "earned_date":"2019-05-06T16:50:05.000Z",
+      "courses":[
+        {
+          "title":"CSS Layout Basics",
+          "url":"https://teamtreehouse.com/library/css-layout-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Positioning Page Content",
+          "url":"https://teamtreehouse.com/library/css-layout-basics/positioning-page-content",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5822,
+      "name":"Responsive Theory",
+      "url":"https://teamtreehouse.com/library/responsive-layouts/responsive-theory",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-CSS-ResponsiveLayouts-stage1.png",
+      "earned_date":"2019-05-07T05:09:25.000Z",
+      "courses":[
+        {
+          "title":"Responsive Layouts",
+          "url":"https://teamtreehouse.com/library/responsive-layouts",
+          "badge_count":1
+        },
+        {
+          "title":"Responsive Theory",
+          "url":"https://teamtreehouse.com/library/responsive-layouts/responsive-theory",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5832,
+      "name":"Media Queries",
+      "url":"https://teamtreehouse.com/library/responsive-layouts/media-queries",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-CSS-ResponsiveLayouts-stage2.png",
+      "earned_date":"2019-05-07T05:09:25.000Z",
+      "courses":[
+        {
+          "title":"Responsive Layouts",
+          "url":"https://teamtreehouse.com/library/responsive-layouts",
+          "badge_count":1
+        },
+        {
+          "title":"Media Queries",
+          "url":"https://teamtreehouse.com/library/responsive-layouts/media-queries",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5842,
+      "name":"Responsive Patterns",
+      "url":"https://teamtreehouse.com/library/responsive-layouts/responsive-patterns",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-CSS-ResponsiveLayouts-stage3.png",
+      "earned_date":"2019-05-07T05:09:25.000Z",
+      "courses":[
+        {
+          "title":"Responsive Layouts",
+          "url":"https://teamtreehouse.com/library/responsive-layouts",
+          "badge_count":1
+        },
+        {
+          "title":"Responsive Patterns",
+          "url":"https://teamtreehouse.com/library/responsive-layouts/responsive-patterns",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":7942,
+      "name":"Understanding Flexbox",
+      "url":"https://teamtreehouse.com/library/css-flexbox-layout/understanding-flexbox",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_flexbox_layout_stage1.png",
+      "earned_date":"2019-05-07T05:19:47.000Z",
+      "courses":[
+        {
+          "title":"CSS Flexbox Layout",
+          "url":"https://teamtreehouse.com/library/css-flexbox-layout",
+          "badge_count":1
+        },
+        {
+          "title":"Understanding Flexbox",
+          "url":"https://teamtreehouse.com/library/css-flexbox-layout/understanding-flexbox",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8012,
+      "name":"Flexbox Properties",
+      "url":"https://teamtreehouse.com/library/css-flexbox-layout/flexbox-properties",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_flexbox_layout_stage2.png",
+      "earned_date":"2019-05-07T05:19:48.000Z",
+      "courses":[
+        {
+          "title":"CSS Flexbox Layout",
+          "url":"https://teamtreehouse.com/library/css-flexbox-layout",
+          "badge_count":1
+        },
+        {
+          "title":"Flexbox Properties",
+          "url":"https://teamtreehouse.com/library/css-flexbox-layout/flexbox-properties",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":7952,
+      "name":"Building a Layout with Flexbox",
+      "url":"https://teamtreehouse.com/library/css-flexbox-layout/building-a-layout-with-flexbox",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_flexbox_layout_stage3.png",
+      "earned_date":"2019-05-07T05:19:48.000Z",
+      "courses":[
+        {
+          "title":"CSS Flexbox Layout",
+          "url":"https://teamtreehouse.com/library/css-flexbox-layout",
+          "badge_count":1
+        },
+        {
+          "title":"Building a Layout with Flexbox",
+          "url":"https://teamtreehouse.com/library/css-flexbox-layout/building-a-layout-with-flexbox",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4792,
+      "name":"Selectors - Beyond the Basics",
+      "url":"https://teamtreehouse.com/library/css-selectors/selectors-beyond-the-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_selectors_stage01.png",
+      "earned_date":"2019-05-07T05:27:03.000Z",
+      "courses":[
+        {
+          "title":"CSS Selectors",
+          "url":"https://teamtreehouse.com/library/css-selectors",
+          "badge_count":1
+        },
+        {
+          "title":"Selectors - Beyond the Basics",
+          "url":"https://teamtreehouse.com/library/css-selectors/selectors-beyond-the-basics",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4802,
+      "name":"Going Further with Attribute Selectors and Pseudo-Classes",
+      "url":"https://teamtreehouse.com/library/css-selectors/going-further-with-attribute-selectors-and-pseudoclasses",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_selectors_stage02.png",
+      "earned_date":"2019-05-07T05:27:04.000Z",
+      "courses":[
+        {
+          "title":"CSS Selectors",
+          "url":"https://teamtreehouse.com/library/css-selectors",
+          "badge_count":1
+        },
+        {
+          "title":"Going Further with Attribute Selectors and Pseudo-Classes",
+          "url":"https://teamtreehouse.com/library/css-selectors/going-further-with-attribute-selectors-and-pseudoclasses",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4812,
+      "name":"Advanced Selectors",
+      "url":"https://teamtreehouse.com/library/css-selectors/advanced-selectors",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_selectors_stage03.png",
+      "earned_date":"2019-05-07T05:27:04.000Z",
+      "courses":[
+        {
+          "title":"CSS Selectors",
+          "url":"https://teamtreehouse.com/library/css-selectors",
+          "badge_count":1
+        },
+        {
+          "title":"Advanced Selectors",
+          "url":"https://teamtreehouse.com/library/css-selectors/advanced-selectors",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14802,
+      "name":"Getting to Know Bootstrap 4",
+      "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2/getting-to-know-bootstrap-4",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_bootstrap-4-basics_stage01.png",
+      "earned_date":"2019-05-07T05:58:12.000Z",
+      "courses":[
+        {
+          "title":"Bootstrap 4 Basics",
+          "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Getting to Know Bootstrap 4",
+          "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2/getting-to-know-bootstrap-4",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14812,
+      "name":"Responsive Layouts With the Bootstrap Grid",
+      "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2/responsive-layouts-with-the-bootstrap-grid",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_bootstrap-4-basics_stage02.png",
+      "earned_date":"2019-05-07T05:58:12.000Z",
+      "courses":[
+        {
+          "title":"Bootstrap 4 Basics",
+          "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Responsive Layouts With the Bootstrap Grid",
+          "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2/responsive-layouts-with-the-bootstrap-grid",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14822,
+      "name":"Using Bootstrap Components",
+      "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2/using-bootstrap-components",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_bootstrap-4-basics_stage03.png",
+      "earned_date":"2019-05-07T05:58:12.000Z",
+      "courses":[
+        {
+          "title":"Bootstrap 4 Basics",
+          "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Using Bootstrap Components",
+          "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2/using-bootstrap-components",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14832,
+      "name":"Building Forms With Bootstrap",
+      "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2/building-forms-with-bootstrap",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_bootstrap-4-basics_stage04.png",
+      "earned_date":"2019-05-07T05:58:12.000Z",
+      "courses":[
+        {
+          "title":"Bootstrap 4 Basics",
+          "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Building Forms With Bootstrap",
+          "url":"https://teamtreehouse.com/library/bootstrap-4-basics-2/building-forms-with-bootstrap",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14072,
+      "name":"Getting Started With HTML",
+      "url":"https://teamtreehouse.com/library/html-basics-2/getting-started-with-html",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html-basics_stage01.png",
+      "earned_date":"2019-05-07T06:39:08.000Z",
+      "courses":[
+        {
+          "title":"HTML Basics",
+          "url":"https://teamtreehouse.com/library/html-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with HTML",
+          "url":"https://teamtreehouse.com/library/html-basics-2/getting-started-with-html",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14082,
+      "name":"Structuring Your Content",
+      "url":"https://teamtreehouse.com/library/html-basics-2/structuring-your-content",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html-basics_stage02.png",
+      "earned_date":"2019-05-08T02:59:36.000Z",
+      "courses":[
+        {
+          "title":"HTML Basics",
+          "url":"https://teamtreehouse.com/library/html-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Structuring Your Content",
+          "url":"https://teamtreehouse.com/library/html-basics-2/structuring-your-content",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14092,
+      "name":"Images, Text and Links",
+      "url":"https://teamtreehouse.com/library/html-basics-2/images-text-and-links",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html-basics_stage03.png",
+      "earned_date":"2019-05-08T02:59:36.000Z",
+      "courses":[
+        {
+          "title":"HTML Basics",
+          "url":"https://teamtreehouse.com/library/html-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Images, Text and Links",
+          "url":"https://teamtreehouse.com/library/html-basics-2/images-text-and-links",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14102,
+      "name":"Going Further with HTML",
+      "url":"https://teamtreehouse.com/library/html-basics-2/going-further-with-html",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html-basics_stage04.png",
+      "earned_date":"2019-05-08T02:59:36.000Z",
+      "courses":[
+        {
+          "title":"HTML Basics",
+          "url":"https://teamtreehouse.com/library/html-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Going Further with HTML",
+          "url":"https://teamtreehouse.com/library/html-basics-2/going-further-with-html",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2442,
+      "name":"Form Basics",
+      "url":"https://teamtreehouse.com/library/html-forms/form-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html_forms_stage1.png",
+      "earned_date":"2019-05-08T03:11:31.000Z",
+      "courses":[
+        {
+          "title":"HTML Forms",
+          "url":"https://teamtreehouse.com/library/html-forms",
+          "badge_count":1
+        },
+        {
+          "title":"Form Basics",
+          "url":"https://teamtreehouse.com/library/html-forms/form-basics",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2452,
+      "name":"Organizing Forms",
+      "url":"https://teamtreehouse.com/library/html-forms-2/organizing-forms",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html_forms_stage2.png",
+      "earned_date":"2019-05-08T03:11:31.000Z",
+      "courses":[
+        {
+          "title":"HTML Forms",
+          "url":"https://teamtreehouse.com/library/html-forms",
+          "badge_count":1
+        },
+        {
+          "title":"Organizing Forms",
+          "url":"https://teamtreehouse.com/library/html-forms-2/organizing-forms",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2462,
+      "name":"Choosing Options",
+      "url":"https://teamtreehouse.com/library/html-forms/choosing-options",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html_forms_stage3.png",
+      "earned_date":"2019-05-08T03:11:31.000Z",
+      "courses":[
+        {
+          "title":"HTML Forms",
+          "url":"https://teamtreehouse.com/library/html-forms",
+          "badge_count":1
+        },
+        {
+          "title":"Choosing Options",
+          "url":"https://teamtreehouse.com/library/html-forms/choosing-options",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3142,
+      "name":"Table Basics",
+      "url":"https://teamtreehouse.com/library/html-tables/table-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html_tables_stage1.png",
+      "earned_date":"2019-05-08T03:16:05.000Z",
+      "courses":[
+        {
+          "title":"HTML Tables",
+          "url":"https://teamtreehouse.com/library/html-tables",
+          "badge_count":1
+        },
+        {
+          "title":"Table Basics",
+          "url":"https://teamtreehouse.com/library/html-tables/table-basics",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3152,
+      "name":"Structuring Tables",
+      "url":"https://teamtreehouse.com/library/html-tables/structuring-tables",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html_tables_stage2.png",
+      "earned_date":"2019-05-08T03:16:05.000Z",
+      "courses":[
+        {
+          "title":"HTML Tables",
+          "url":"https://teamtreehouse.com/library/html-tables",
+          "badge_count":1
+        },
+        {
+          "title":"Structuring Tables",
+          "url":"https://teamtreehouse.com/library/html-tables/structuring-tables",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8772,
+      "name":"Getting Started with CSS Transitions",
+      "url":"https://teamtreehouse.com/library/css-transitions-and-transforms/getting-started-with-css-transitions",
+      "icon_url":"https://achievement-images.teamtreehouse.com/css-transitions-and-transforms-badge-01.png",
+      "earned_date":"2019-05-08T04:33:13.000Z",
+      "courses":[
+        {
+          "title":"CSS Transitions and Transforms",
+          "url":"https://teamtreehouse.com/library/css-transitions-and-transforms",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with CSS Transitions",
+          "url":"https://teamtreehouse.com/library/css-transitions-and-transforms/getting-started-with-css-transitions",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8782,
+      "name":"Transition Timing Functions and Delays",
+      "url":"https://teamtreehouse.com/library/css-transitions-and-transforms/transition-timing-functions-and-delays",
+      "icon_url":"https://achievement-images.teamtreehouse.com/css-transitions-and-transforms-badge-02.png",
+      "earned_date":"2019-05-08T04:33:13.000Z",
+      "courses":[
+        {
+          "title":"CSS Transitions and Transforms",
+          "url":"https://teamtreehouse.com/library/css-transitions-and-transforms",
+          "badge_count":1
+        },
+        {
+          "title":"Transition Timing Functions and Delays",
+          "url":"https://teamtreehouse.com/library/css-transitions-and-transforms/transition-timing-functions-and-delays",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8792,
+      "name":"Getting Started with CSS Transforms",
+      "url":"https://teamtreehouse.com/library/css-transitions-and-transforms/getting-started-with-css-transforms",
+      "icon_url":"https://achievement-images.teamtreehouse.com/css-transitions-and-transforms-badge-03.png",
+      "earned_date":"2019-05-08T04:33:13.000Z",
+      "courses":[
+        {
+          "title":"CSS Transitions and Transforms",
+          "url":"https://teamtreehouse.com/library/css-transitions-and-transforms",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with CSS Transforms",
+          "url":"https://teamtreehouse.com/library/css-transitions-and-transforms/getting-started-with-css-transforms",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":8802,
+      "name":"Adding 3D Effects with CSS",
+      "url":"https://teamtreehouse.com/library/css-transitions-and-transforms/adding-3d-effects-with-css",
+      "icon_url":"https://achievement-images.teamtreehouse.com/css-transitions-and-transforms-badge-04.png",
+      "earned_date":"2019-05-08T04:33:13.000Z",
+      "courses":[
+        {
+          "title":"CSS Transitions and Transforms",
+          "url":"https://teamtreehouse.com/library/css-transitions-and-transforms",
+          "badge_count":1
+        },
+        {
+          "title":"Adding 3D Effects with CSS",
+          "url":"https://teamtreehouse.com/library/css-transitions-and-transforms/adding-3d-effects-with-css",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14422,
+      "name":"Discovery",
+      "url":"https://teamtreehouse.com/library/web-design-process/discovery",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_web_design_process_stage1.png",
+      "earned_date":"2019-05-08T04:44:28.000Z",
+      "courses":[
+        {
+          "title":"Web Design Process",
+          "url":"https://teamtreehouse.com/library/web-design-process",
+          "badge_count":1
+        },
+        {
+          "title":"Discovery",
+          "url":"https://teamtreehouse.com/library/web-design-process/discovery",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14432,
+      "name":"Exploration",
+      "url":"https://teamtreehouse.com/library/web-design-process/exploration",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_web_design_process_stage2.png",
+      "earned_date":"2019-05-08T04:44:29.000Z",
+      "courses":[
+        {
+          "title":"Web Design Process",
+          "url":"https://teamtreehouse.com/library/web-design-process",
+          "badge_count":1
+        },
+        {
+          "title":"Exploration",
+          "url":"https://teamtreehouse.com/library/web-design-process/exploration",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2132,
+      "name":"JavaScript Variables",
+      "url":"https://teamtreehouse.com/library/javascript-basics/storing-and-tracking-information-with-variables",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage2.png",
+      "earned_date":"2019-05-08T05:11:36.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Basics",
+          "url":"https://teamtreehouse.com/library/javascript-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Storing and Tracking Information with Variables",
+          "url":"https://teamtreehouse.com/library/javascript-basics/storing-and-tracking-information-with-variables",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3182,
+      "name":"JavaScript Numbers",
+      "url":"https://teamtreehouse.com/library/javascript-basics/working-with-numbers",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage0-34.png",
+      "earned_date":"2019-05-08T05:11:36.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Basics",
+          "url":"https://teamtreehouse.com/library/javascript-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Working With Numbers",
+          "url":"https://teamtreehouse.com/library/javascript-basics/working-with-numbers",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2142,
+      "name":"JavaScript Conditional Statements",
+      "url":"https://teamtreehouse.com/library/javascript-basics/making-decisions-with-conditional-statements",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage3.png",
+      "earned_date":"2019-05-08T05:11:36.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Basics",
+          "url":"https://teamtreehouse.com/library/javascript-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Making Decisions with Conditional Statements",
+          "url":"https://teamtreehouse.com/library/javascript-basics/making-decisions-with-conditional-statements",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2152,
+      "name":"JavaScript Functions",
+      "url":"https://teamtreehouse.com/library/javascript-basics/creating-reusable-code-with-functions",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage4B.png",
+      "earned_date":"2019-05-08T05:11:36.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Basics",
+          "url":"https://teamtreehouse.com/library/javascript-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Creating Reusable Code with Functions",
+          "url":"https://teamtreehouse.com/library/javascript-basics/creating-reusable-code-with-functions",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4722,
+      "name":"Introduction to SVG",
+      "url":"https://teamtreehouse.com/library/svg-basics/introduction-to-svg",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-html-svg-stage1.png",
+      "earned_date":"2019-05-08T05:49:00.000Z",
+      "courses":[
+        {
+          "title":"SVG Basics",
+          "url":"https://teamtreehouse.com/library/svg-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Introduction to SVG",
+          "url":"https://teamtreehouse.com/library/svg-basics/introduction-to-svg",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4732,
+      "name":"Creating an SVG",
+      "url":"https://teamtreehouse.com/library/svg-basics/svg-and-css",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-html-svg-stage2.png",
+      "earned_date":"2019-05-08T05:49:00.000Z",
+      "courses":[
+        {
+          "title":"SVG Basics",
+          "url":"https://teamtreehouse.com/library/svg-basics",
+          "badge_count":1
+        },
+        {
+          "title":"SVG and CSS",
+          "url":"https://teamtreehouse.com/library/svg-basics/svg-and-css",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5192,
+      "name":"Computer Basics ",
+      "url":"https://teamtreehouse.com/library/computer-basics/computer-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_computerbasics_stage1.png",
+      "earned_date":"2019-05-08T19:37:21.000Z",
+      "courses":[
+        {
+          "title":"Computer Basics",
+          "url":"https://teamtreehouse.com/library/computer-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Computer Basics ",
+          "url":"https://teamtreehouse.com/library/computer-basics/computer-basics",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":5202,
+      "name":"Computer Languages ",
+      "url":"https://teamtreehouse.com/library/computer-basics/computer-languages",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_computerbasics_stage2.png",
+      "earned_date":"2019-05-08T19:37:21.000Z",
+      "courses":[
+        {
+          "title":"Computer Basics",
+          "url":"https://teamtreehouse.com/library/computer-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Computer Languages ",
+          "url":"https://teamtreehouse.com/library/computer-basics/computer-languages",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":6632,
+      "name":"The Internet",
+      "url":"https://teamtreehouse.com/library/how-the-internet-works/the-internet",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-internet-stage1.png",
+      "earned_date":"2019-05-08T19:38:33.000Z",
+      "courses":[
+        {
+          "title":"How the Internet Works",
+          "url":"https://teamtreehouse.com/library/how-the-internet-works",
+          "badge_count":1
+        },
+        {
+          "title":"The Internet",
+          "url":"https://teamtreehouse.com/library/how-the-internet-works/the-internet",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":6092,
+      "name":"WWW",
+      "url":"https://teamtreehouse.com/library/how-the-web-works/the-world-wide-web",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-www-stage1.png",
+      "earned_date":"2019-05-08T19:39:55.000Z",
+      "courses":[
+        {
+          "title":"How the Web Works",
+          "url":"https://teamtreehouse.com/library/how-the-web-works",
+          "badge_count":1
+        },
+        {
+          "title":"The World Wide Web",
+          "url":"https://teamtreehouse.com/library/how-the-web-works/the-world-wide-web",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2222,
+      "name":"JavaScript Loops",
+      "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects/simplify-repetitive-tasks-with-loops",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage6.png",
+      "earned_date":"2019-05-11T21:58:41.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Loops, Arrays and Objects",
+          "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects",
+          "badge_count":1
+        },
+        {
+          "title":"Simplify Repetitive Tasks with Loops",
+          "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects/simplify-repetitive-tasks-with-loops",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":13462,
+      "name":"Media Basics",
+      "url":"https://teamtreehouse.com/library/html-video-and-audio-2/media-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-html-video-audio-stage1-2.png",
+      "earned_date":"2019-05-13T01:18:24.000Z",
+      "courses":[
+        {
+          "title":"HTML Video and Audio",
+          "url":"https://teamtreehouse.com/library/html-video-and-audio-2",
+          "badge_count":1
+        },
+        {
+          "title":"Media Basics",
+          "url":"https://teamtreehouse.com/library/html-video-and-audio-2/media-basics",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":13472,
+      "name":"Captioning Video",
+      "url":"https://teamtreehouse.com/library/html-video-and-audio-2/captioning-video",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-html-videoaudio-stage2-2.png",
+      "earned_date":"2019-05-13T01:39:19.000Z",
+      "courses":[
+        {
+          "title":"HTML Video and Audio",
+          "url":"https://teamtreehouse.com/library/html-video-and-audio-2",
+          "badge_count":1
+        },
+        {
+          "title":"Captioning Video",
+          "url":"https://teamtreehouse.com/library/html-video-and-audio-2/captioning-video",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2592,
+      "name":"Welcome to the Treehouse Club",
+      "url":"https://teamtreehouse.com/library/treehouse-club-html/publish-a-story",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_html_publishstory_stage1.png",
+      "earned_date":"2019-05-15T05:25:12.000Z",
+      "courses":[
+        {
+          "title":"Treehouse Club: HTML",
+          "url":"https://teamtreehouse.com/library/treehouse-club-html",
+          "badge_count":1
+        },
+        {
+          "title":"Publish a Story",
+          "url":"https://teamtreehouse.com/library/treehouse-club-html/publish-a-story",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":2162,
+      "name":"JavaScript Arrays",
+      "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects/tracking-multiple-items-with-arrays",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_Basics_Stage5.png",
+      "earned_date":"2019-05-15T13:13:31.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Loops, Arrays and Objects",
+          "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects",
+          "badge_count":1
+        },
+        {
+          "title":"Tracking Multiple Items with Arrays ",
+          "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects/tracking-multiple-items-with-arrays",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3272,
+      "name":"Treehouse Club - CSS",
+      "url":"https://teamtreehouse.com/library/treehouse-club-css/my-first-web-page",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_hacker2_stage01.png",
+      "earned_date":"2019-05-16T21:57:58.000Z",
+      "courses":[
+        {
+          "title":"Treehouse Club: CSS",
+          "url":"https://teamtreehouse.com/library/treehouse-club-css",
+          "badge_count":1
+        },
+        {
+          "title":"My First Web Page ",
+          "url":"https://teamtreehouse.com/library/treehouse-club-css/my-first-web-page",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":26,
+      "name":"Introduction",
+      "url":"https://teamtreehouse.com/library/html/introduction",
+      "icon_url":"https://achievement-images.teamtreehouse.com/HTML_Basics.png",
+      "earned_date":"2019-05-17T04:38:54.000Z",
+      "courses":[
+        {
+          "title":"HTML",
+          "url":"https://teamtreehouse.com/library/html",
+          "badge_count":1
+        },
+        {
+          "title":"Introduction",
+          "url":"https://teamtreehouse.com/library/html/introduction",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":28,
+      "name":"Text",
+      "url":"https://teamtreehouse.com/library/html/text",
+      "icon_url":"https://achievement-images.teamtreehouse.com/HTML_Text.png",
+      "earned_date":"2019-05-17T04:56:00.000Z",
+      "courses":[
+        {
+          "title":"HTML",
+          "url":"https://teamtreehouse.com/library/html",
+          "badge_count":1
+        },
+        {
+          "title":"Text",
+          "url":"https://teamtreehouse.com/library/html/text",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":27,
+      "name":"Lists",
+      "url":"https://teamtreehouse.com/library/html/lists",
+      "icon_url":"https://achievement-images.teamtreehouse.com/HTML_Lists.png",
+      "earned_date":"2019-05-17T05:05:35.000Z",
+      "courses":[
+        {
+          "title":"HTML",
+          "url":"https://teamtreehouse.com/library/html",
+          "badge_count":1
+        },
+        {
+          "title":"Lists",
+          "url":"https://teamtreehouse.com/library/html/lists",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":81,
+      "name":"Links",
+      "url":"https://teamtreehouse.com/library/html/links",
+      "icon_url":"https://achievement-images.teamtreehouse.com/HTML_Links.png",
+      "earned_date":"2019-05-17T05:16:23.000Z",
+      "courses":[
+        {
+          "title":"HTML",
+          "url":"https://teamtreehouse.com/library/html",
+          "badge_count":1
+        },
+        {
+          "title":"Links",
+          "url":"https://teamtreehouse.com/library/html/links",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":77,
+      "name":"Objects",
+      "url":"https://teamtreehouse.com/library/html/objects",
+      "icon_url":"https://achievement-images.teamtreehouse.com/HTML_Objects.png",
+      "earned_date":"2019-05-17T05:29:30.000Z",
+      "courses":[
+        {
+          "title":"HTML",
+          "url":"https://teamtreehouse.com/library/html",
+          "badge_count":1
+        },
+        {
+          "title":"Objects",
+          "url":"https://teamtreehouse.com/library/html/objects",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":38,
+      "name":"Tables",
+      "url":"https://teamtreehouse.com/library/html/tables",
+      "icon_url":"https://achievement-images.teamtreehouse.com/HTML_Tables.png",
+      "earned_date":"2019-05-17T20:09:00.000Z",
+      "courses":[
+        {
+          "title":"HTML",
+          "url":"https://teamtreehouse.com/library/html",
+          "badge_count":1
+        },
+        {
+          "title":"Tables",
+          "url":"https://teamtreehouse.com/library/html/tables",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":29,
+      "name":"Forms",
+      "url":"https://teamtreehouse.com/library/html/forms",
+      "icon_url":"https://achievement-images.teamtreehouse.com/HTML_Forms.png",
+      "earned_date":"2019-05-17T21:24:20.000Z",
+      "courses":[
+        {
+          "title":"HTML",
+          "url":"https://teamtreehouse.com/library/html",
+          "badge_count":1
+        },
+        {
+          "title":"Forms",
+          "url":"https://teamtreehouse.com/library/html/forms",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16582,
+      "name":"First Steps in React",
+      "url":"https://teamtreehouse.com/library/react-basics-2/first-steps-in-react",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_Stage1.png",
+      "earned_date":"2019-05-18T04:18:06.000Z",
+      "courses":[
+        {
+          "title":"React Basics",
+          "url":"https://teamtreehouse.com/library/react-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"First Steps in React",
+          "url":"https://teamtreehouse.com/library/react-basics-2/first-steps-in-react",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16592,
+      "name":"Thinking in Components",
+      "url":"https://teamtreehouse.com/library/react-basics-2/thinking-in-components",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_Stage2.png",
+      "earned_date":"2019-05-18T04:35:52.000Z",
+      "courses":[
+        {
+          "title":"React Basics",
+          "url":"https://teamtreehouse.com/library/react-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Thinking in Components",
+          "url":"https://teamtreehouse.com/library/react-basics-2/thinking-in-components",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16972,
+      "name":"Introducing Props",
+      "url":"https://teamtreehouse.com/library/react-basics-2/introducing-props",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_basics_Stage-3.png",
+      "earned_date":"2019-05-18T04:57:43.000Z",
+      "courses":[
+        {
+          "title":"React Basics",
+          "url":"https://teamtreehouse.com/library/react-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Introducing Props",
+          "url":"https://teamtreehouse.com/library/react-basics-2/introducing-props",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16602,
+      "name":"Stateful Components",
+      "url":"https://teamtreehouse.com/library/react-basics-2/understanding-state",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_basics_Stage-4.png",
+      "earned_date":"2019-05-18T18:12:53.000Z",
+      "courses":[
+        {
+          "title":"React Basics",
+          "url":"https://teamtreehouse.com/library/react-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Understanding State ",
+          "url":"https://teamtreehouse.com/library/react-basics-2/understanding-state",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16652,
+      "name":"Build Modular Interfaces with Components",
+      "url":"https://teamtreehouse.com/library/react-components/build-modular-interfaces-with-components",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_react-components_stage1.png",
+      "earned_date":"2019-05-18T18:57:37.000Z",
+      "courses":[
+        {
+          "title":"React Components",
+          "url":"https://teamtreehouse.com/library/react-components",
+          "badge_count":1
+        },
+        {
+          "title":"Build Modular Interfaces with Components",
+          "url":"https://teamtreehouse.com/library/react-components/build-modular-interfaces-with-components",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16662,
+      "name":"Managing State and Data Flow",
+      "url":"https://teamtreehouse.com/library/react-components/managing-state-and-data-flow",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_react-components_stage2.png",
+      "earned_date":"2019-05-18T20:51:39.000Z",
+      "courses":[
+        {
+          "title":"React Components",
+          "url":"https://teamtreehouse.com/library/react-components",
+          "badge_count":1
+        },
+        {
+          "title":"Managing State and Data Flow",
+          "url":"https://teamtreehouse.com/library/react-components/managing-state-and-data-flow",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16672,
+      "name":"Stateful Components and Lifecycle Methods",
+      "url":"https://teamtreehouse.com/library/react-components/stateful-components-and-lifecycle-methods",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_react-components_stage3.png",
+      "earned_date":"2019-05-19T01:37:44.000Z",
+      "courses":[
+        {
+          "title":"React Components",
+          "url":"https://teamtreehouse.com/library/react-components",
+          "badge_count":1
+        },
+        {
+          "title":"Stateful Components and Lifecycle Methods",
+          "url":"https://teamtreehouse.com/library/react-components/stateful-components-and-lifecycle-methods",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16982,
+      "name":"React Component Patterns",
+      "url":"https://teamtreehouse.com/library/react-components/react-component-patterns",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_react-components_stage4.png",
+      "earned_date":"2019-05-19T02:12:39.000Z",
+      "courses":[
+        {
+          "title":"React Components",
+          "url":"https://teamtreehouse.com/library/react-components",
+          "badge_count":1
+        },
+        {
+          "title":"React Component Patterns",
+          "url":"https://teamtreehouse.com/library/react-components/react-component-patterns",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":13542,
+      "name":"Getting Started with React Router",
+      "url":"https://teamtreehouse.com/library/react-router-4-basics-2/getting-started-with-react-router",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_router_Stage1.png",
+      "earned_date":"2019-05-20T01:20:47.000Z",
+      "courses":[
+        {
+          "title":"React Router 4 Basics ",
+          "url":"https://teamtreehouse.com/library/react-router-4-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with React Router",
+          "url":"https://teamtreehouse.com/library/react-router-4-basics-2/getting-started-with-react-router",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":13552,
+      "name":"Navigating, Nesting and Redirecting Routes",
+      "url":"https://teamtreehouse.com/library/react-router-4-basics-2/navigating-nesting-and-redirecting-routes",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_router_Stage2.png",
+      "earned_date":"2019-05-20T01:38:55.000Z",
+      "courses":[
+        {
+          "title":"React Router 4 Basics ",
+          "url":"https://teamtreehouse.com/library/react-router-4-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Navigating, Nesting and Redirecting Routes",
+          "url":"https://teamtreehouse.com/library/react-router-4-basics-2/navigating-nesting-and-redirecting-routes",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":13562,
+      "name":"Going Further with Routing",
+      "url":"https://teamtreehouse.com/library/react-router-4-basics-2/going-further-with-routing",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_router_Stage3.png",
+      "earned_date":"2019-05-20T02:01:48.000Z",
+      "courses":[
+        {
+          "title":"React Router 4 Basics ",
+          "url":"https://teamtreehouse.com/library/react-router-4-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Going Further with Routing",
+          "url":"https://teamtreehouse.com/library/react-router-4-basics-2/going-further-with-routing",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11292,
+      "name":"Getting Started with Redux",
+      "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux/getting-started-with-redux",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_redux_Stage1.png",
+      "earned_date":"2019-05-20T20:27:04.000Z",
+      "courses":[
+        {
+          "title":"Building Applications with React and Redux",
+          "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with Redux",
+          "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux/getting-started-with-redux",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11302,
+      "name":"Modularizing the React Scoreboard Application",
+      "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux/modularizing-the-react-scoreboard-application",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_redux_Stage2.png",
+      "earned_date":"2019-05-21T02:40:57.000Z",
+      "courses":[
+        {
+          "title":"Building Applications with React and Redux",
+          "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux",
+          "badge_count":1
+        },
+        {
+          "title":"Modularizing the React Scoreboard Application",
+          "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux/modularizing-the-react-scoreboard-application",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11312,
+      "name":"Actions, Dispatch and Reducers. Oh my!",
+      "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux/actions-dispatch-and-reducers-oh-my",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_redux_Stage3.png",
+      "earned_date":"2019-05-21T03:13:32.000Z",
+      "courses":[
+        {
+          "title":"Building Applications with React and Redux",
+          "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux",
+          "badge_count":1
+        },
+        {
+          "title":"Actions, Dispatch, and Reducers. Oh my!",
+          "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux/actions-dispatch-and-reducers-oh-my",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11322,
+      "name":"Putting it all Together",
+      "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux/putting-it-all-together",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_react_redux_Stage4.png",
+      "earned_date":"2019-05-23T06:09:54.000Z",
+      "courses":[
+        {
+          "title":"Building Applications with React and Redux",
+          "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux",
+          "badge_count":1
+        },
+        {
+          "title":"Putting it all Together",
+          "url":"https://teamtreehouse.com/library/building-applications-with-react-and-redux/putting-it-all-together",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4602,
+      "name":"JavaScript Objects",
+      "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects/tracking-data-using-objects",
+      "icon_url":"https://achievement-images.teamtreehouse.com/javascript-loops-stage3.png",
+      "earned_date":"2019-05-27T06:14:53.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Loops, Arrays and Objects",
+          "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects",
+          "badge_count":1
+        },
+        {
+          "title":"Tracking Data Using Objects",
+          "url":"https://teamtreehouse.com/library/javascript-loops-arrays-and-objects/tracking-data-using-objects",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11332,
+      "name":"The Browser Environment",
+      "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/the-browser-environment",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_DOM_Stage-41.png",
+      "earned_date":"2019-05-27T06:35:22.000Z",
+      "courses":[
+        {
+          "title":"JavaScript and the DOM",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2",
+          "badge_count":1
+        },
+        {
+          "title":"The Browser Environment",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/the-browser-environment",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11342,
+      "name":"Getting a Handle on the DOM",
+      "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/getting-a-handle-on-the-dom",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_DOM_Stage-42.png",
+      "earned_date":"2019-05-28T03:29:57.000Z",
+      "courses":[
+        {
+          "title":"JavaScript and the DOM",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2",
+          "badge_count":1
+        },
+        {
+          "title":"Getting a Handle on the DOM",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/getting-a-handle-on-the-dom",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11352,
+      "name":"Making Changes to the DOM",
+      "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/making-changes-to-the-dom",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_DOM_Stage-43.png",
+      "earned_date":"2019-05-28T04:01:23.000Z",
+      "courses":[
+        {
+          "title":"JavaScript and the DOM",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2",
+          "badge_count":1
+        },
+        {
+          "title":"Making Changes to the DOM",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/making-changes-to-the-dom",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11362,
+      "name":"Responding to User Interaction",
+      "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/responding-to-user-interaction",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_DOM_Stage-44.png",
+      "earned_date":"2019-05-28T04:56:54.000Z",
+      "courses":[
+        {
+          "title":"JavaScript and the DOM",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2",
+          "badge_count":1
+        },
+        {
+          "title":"Responding to User Interaction",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/responding-to-user-interaction",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11372,
+      "name":"Traversing the DOM",
+      "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/traversing-the-dom",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_DOM_Stage-45.png",
+      "earned_date":"2019-05-28T05:58:39.000Z",
+      "courses":[
+        {
+          "title":"JavaScript and the DOM",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2",
+          "badge_count":1
+        },
+        {
+          "title":"Traversing the DOM",
+          "url":"https://teamtreehouse.com/library/javascript-and-the-dom-2/traversing-the-dom",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14362,
+      "name":"Introducing jQuery (2017)",
+      "url":"https://teamtreehouse.com/library/jquery-basics-2/introducing-jquery",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_jquerybasics_stage1.png",
+      "earned_date":"2019-05-29T03:42:51.000Z",
+      "courses":[
+        {
+          "title":"jQuery Basics",
+          "url":"https://teamtreehouse.com/library/jquery-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Introducing jQuery",
+          "url":"https://teamtreehouse.com/library/jquery-basics-2/introducing-jquery",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14372,
+      "name":"Understanding jQuery Events and DOM Traversal (2017)",
+      "url":"https://teamtreehouse.com/library/jquery-basics-2/understanding-jquery-events-and-dom-traversal",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_jquerybasics_stage2.png",
+      "earned_date":"2019-05-29T04:21:06.000Z",
+      "courses":[
+        {
+          "title":"jQuery Basics",
+          "url":"https://teamtreehouse.com/library/jquery-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Understanding jQuery Events and DOM Traversal",
+          "url":"https://teamtreehouse.com/library/jquery-basics-2/understanding-jquery-events-and-dom-traversal",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14382,
+      "name":"Working with jQuery Collections (2017)",
+      "url":"https://teamtreehouse.com/library/jquery-basics-2/working-with-jquery-collections",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_jquerybasics_stage3.png",
+      "earned_date":"2019-05-29T20:54:29.000Z",
+      "courses":[
+        {
+          "title":"jQuery Basics",
+          "url":"https://teamtreehouse.com/library/jquery-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Working with jQuery Collections",
+          "url":"https://teamtreehouse.com/library/jquery-basics-2/working-with-jquery-collections",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":1622,
+      "name":"AJAX Concepts",
+      "url":"https://teamtreehouse.com/library/ajax-basics-retiring/ajax-concepts",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_AJAXBasics_Stage1.png",
+      "earned_date":"2019-05-30T05:01:08.000Z",
+      "courses":[
+        {
+          "title":"AJAX Basics (retiring)",
+          "url":"https://teamtreehouse.com/library/ajax-basics-retiring",
+          "badge_count":1
+        },
+        {
+          "title":"AJAX Concepts",
+          "url":"https://teamtreehouse.com/library/ajax-basics-retiring/ajax-concepts",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":1632,
+      "name":"Programming AJAX",
+      "url":"https://teamtreehouse.com/library/ajax-basics-retiring/programming-ajax",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_AJAXBasics_Stage2.png",
+      "earned_date":"2019-05-30T05:45:40.000Z",
+      "courses":[
+        {
+          "title":"AJAX Basics (retiring)",
+          "url":"https://teamtreehouse.com/library/ajax-basics-retiring",
+          "badge_count":1
+        },
+        {
+          "title":"Programming AJAX",
+          "url":"https://teamtreehouse.com/library/ajax-basics-retiring/programming-ajax",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15192,
+      "name":"Getting Started with GraphQL ",
+      "url":"https://teamtreehouse.com/library/introduction-to-graphql/getting-started-with-graphql",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge-introduction-to-graphql-stage01.png",
+      "earned_date":"2019-05-30T05:56:49.000Z",
+      "courses":[
+        {
+          "title":"Introduction to GraphQL",
+          "url":"https://teamtreehouse.com/library/introduction-to-graphql",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with GraphQL ",
+          "url":"https://teamtreehouse.com/library/introduction-to-graphql/getting-started-with-graphql",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15202,
+      "name":"Fetching Data with Queries",
+      "url":"https://teamtreehouse.com/library/introduction-to-graphql/fetching-data-with-queries",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge-introduction-to-graphql-stage02.png",
+      "earned_date":"2019-05-30T06:03:39.000Z",
+      "courses":[
+        {
+          "title":"Introduction to GraphQL",
+          "url":"https://teamtreehouse.com/library/introduction-to-graphql",
+          "badge_count":1
+        },
+        {
+          "title":"Fetching Data with Queries",
+          "url":"https://teamtreehouse.com/library/introduction-to-graphql/fetching-data-with-queries",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15212,
+      "name":"Making Changes with Mutations",
+      "url":"https://teamtreehouse.com/library/introduction-to-graphql/making-changes-with-mutations",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge-introduction-to-graphql-stage03.png",
+      "earned_date":"2019-05-30T06:14:28.000Z",
+      "courses":[
+        {
+          "title":"Introduction to GraphQL",
+          "url":"https://teamtreehouse.com/library/introduction-to-graphql",
+          "badge_count":1
+        },
+        {
+          "title":"Making Changes with Mutations",
+          "url":"https://teamtreehouse.com/library/introduction-to-graphql/making-changes-with-mutations",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15222,
+      "name":"Reusable GraphQL  ",
+      "url":"https://teamtreehouse.com/library/introduction-to-graphql/reusable-graphql",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge-introduction-to-graphql-stage04.png",
+      "earned_date":"2019-05-30T21:01:10.000Z",
+      "courses":[
+        {
+          "title":"Introduction to GraphQL",
+          "url":"https://teamtreehouse.com/library/introduction-to-graphql",
+          "badge_count":1
+        },
+        {
+          "title":"Reusable GraphQL  ",
+          "url":"https://teamtreehouse.com/library/introduction-to-graphql/reusable-graphql",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":1642,
+      "name":"jQuery and AJAX",
+      "url":"https://teamtreehouse.com/library/ajax-basics-retiring/jquery-and-ajax",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_AJAXBasics_Stage3.png",
+      "earned_date":"2019-05-31T03:08:51.000Z",
+      "courses":[
+        {
+          "title":"AJAX Basics (retiring)",
+          "url":"https://teamtreehouse.com/library/ajax-basics-retiring",
+          "badge_count":1
+        },
+        {
+          "title":"jQuery and AJAX",
+          "url":"https://teamtreehouse.com/library/ajax-basics-retiring/jquery-and-ajax",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":1652,
+      "name":"AJAX and APIs",
+      "url":"https://teamtreehouse.com/library/ajax-basics-retiring/ajax-and-apis",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_JavaScript_AJAXBasics_Stage4.png",
+      "earned_date":"2019-05-31T04:00:26.000Z",
+      "courses":[
+        {
+          "title":"AJAX Basics (retiring)",
+          "url":"https://teamtreehouse.com/library/ajax-basics-retiring",
+          "badge_count":1
+        },
+        {
+          "title":"AJAX and APIs",
+          "url":"https://teamtreehouse.com/library/ajax-basics-retiring/ajax-and-apis",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15832,
+      "name":"Introduction to Object-Oriented JavaScript",
+      "url":"https://teamtreehouse.com/library/objectoriented-javascript-2/introduction-to-objectoriented-javascript",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage1.png",
+      "earned_date":"2019-05-31T05:17:58.000Z",
+      "courses":[
+        {
+          "title":"Object-Oriented JavaScript",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-2",
+          "badge_count":1
+        },
+        {
+          "title":"Introduction to Object-Oriented JavaScript",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-2/introduction-to-objectoriented-javascript",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15842,
+      "name":"Object Basics",
+      "url":"https://teamtreehouse.com/library/objectoriented-javascript-2/object-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage2.png",
+      "earned_date":"2019-05-31T05:35:56.000Z",
+      "courses":[
+        {
+          "title":"Object-Oriented JavaScript",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-2",
+          "badge_count":1
+        },
+        {
+          "title":"Object Basics",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-2/object-basics",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16892,
+      "name":"Practicing Object Basics",
+      "url":"https://teamtreehouse.com/library/practice-object-basics-in-javascript/practicing-object-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/practice_object_basics.png",
+      "earned_date":"2019-05-31T06:05:12.000Z",
+      "courses":[
+        {
+          "title":"Practice Object Basics in JavaScript",
+          "url":"https://teamtreehouse.com/library/practice-object-basics-in-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"Practicing Object Basics",
+          "url":"https://teamtreehouse.com/library/practice-object-basics-in-javascript/practicing-object-basics",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15852,
+      "name":"Working with Classes in JavaScript",
+      "url":"https://teamtreehouse.com/library/objectoriented-javascript-2/working-with-classes-in-javascript",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage3.png",
+      "earned_date":"2019-05-31T15:43:36.000Z",
+      "courses":[
+        {
+          "title":"Object-Oriented JavaScript",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-2",
+          "badge_count":1
+        },
+        {
+          "title":"Working with Classes in JavaScript",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-2/working-with-classes-in-javascript",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":17082,
+      "name":"Practicing Classes",
+      "url":"https://teamtreehouse.com/library/practice-classes-in-javascript/practicing-classes",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage3.png",
+      "earned_date":"2019-05-31T15:50:41.000Z",
+      "courses":[
+        {
+          "title":"Practice Classes in JavaScript",
+          "url":"https://teamtreehouse.com/library/practice-classes-in-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"Practicing Classes",
+          "url":"https://teamtreehouse.com/library/practice-classes-in-javascript/practicing-classes",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16182,
+      "name":"Getters and Setters",
+      "url":"https://teamtreehouse.com/library/objectoriented-javascript-2/getters-and-setters",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage4.png",
+      "earned_date":"2019-05-31T17:10:29.000Z",
+      "courses":[
+        {
+          "title":"Object-Oriented JavaScript",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-2",
+          "badge_count":1
+        },
+        {
+          "title":"Getters and Setters",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-2/getters-and-setters",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":17194,
+      "name":"The Rough Plan",
+      "url":"https://teamtreehouse.com/library/practice-object-interaction/the-rough-plan",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_writeplan_Stage1.png",
+      "earned_date":"2019-05-31T17:20:24.000Z",
+      "courses":[
+        {
+          "title":"Practice Object Interaction",
+          "url":"https://teamtreehouse.com/library/practice-object-interaction",
+          "badge_count":1
+        },
+        {
+          "title":"The Rough Plan",
+          "url":"https://teamtreehouse.com/library/practice-object-interaction/the-rough-plan",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":17199,
+      "name":"Starting with Some Methods",
+      "url":"https://teamtreehouse.com/library/practice-object-interaction/starting-with-some-methods",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage4.png",
+      "earned_date":"2019-05-31T17:26:59.000Z",
+      "courses":[
+        {
+          "title":"Practice Object Interaction",
+          "url":"https://teamtreehouse.com/library/practice-object-interaction",
+          "badge_count":1
+        },
+        {
+          "title":"Starting with Some Methods",
+          "url":"https://teamtreehouse.com/library/practice-object-interaction/starting-with-some-methods",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":17200,
+      "name":"Checking Out and Returning a Book",
+      "url":"https://teamtreehouse.com/library/practice-object-interaction/checking-out-and-returning-a-book",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_DD_Copyright_Stage1-52.png",
+      "earned_date":"2019-05-31T19:22:23.000Z",
+      "courses":[
+        {
+          "title":"Practice Object Interaction",
+          "url":"https://teamtreehouse.com/library/practice-object-interaction",
+          "badge_count":1
+        },
+        {
+          "title":"Checking Out and Returning a Book",
+          "url":"https://teamtreehouse.com/library/practice-object-interaction/checking-out-and-returning-a-book",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12572,
+      "name":"Access for Everybody",
+      "url":"https://teamtreehouse.com/library/web-accessibility-compliance/access-for-everybody",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WAC_Stage1.png",
+      "earned_date":"2019-06-01T03:45:43.000Z",
+      "courses":[
+        {
+          "title":"Web Accessibility Compliance",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance",
+          "badge_count":1
+        },
+        {
+          "title":"Access for Everybody",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance/access-for-everybody",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12582,
+      "name":"WCAG 2.0 (and Other Standards) ",
+      "url":"https://teamtreehouse.com/library/web-accessibility-compliance/wcag-20-and-other-standards",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WAC_Stage2.png",
+      "earned_date":"2019-06-01T04:08:02.000Z",
+      "courses":[
+        {
+          "title":"Web Accessibility Compliance",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance",
+          "badge_count":1
+        },
+        {
+          "title":"WCAG 2.0 (and Other Standards)",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance/wcag-20-and-other-standards",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12592,
+      "name":"Semantic HTML and WAI-ARIA ",
+      "url":"https://teamtreehouse.com/library/web-accessibility-compliance/semantic-html-and-waiaria",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WAC_Stage3.png",
+      "earned_date":"2019-06-01T04:38:47.000Z",
+      "courses":[
+        {
+          "title":"Web Accessibility Compliance",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance",
+          "badge_count":1
+        },
+        {
+          "title":"Semantic HTML and WAI-ARIA  ",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance/semantic-html-and-waiaria",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12602,
+      "name":"Accessible UI Patterns",
+      "url":"https://teamtreehouse.com/library/web-accessibility-compliance/accessible-ui-patterns",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WAC_Stage4.png",
+      "earned_date":"2019-06-01T05:00:48.000Z",
+      "courses":[
+        {
+          "title":"Web Accessibility Compliance",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance",
+          "badge_count":1
+        },
+        {
+          "title":"Accessible UI Patterns",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance/accessible-ui-patterns",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12612,
+      "name":"Mobile Accessibility",
+      "url":"https://teamtreehouse.com/library/web-accessibility-compliance/mobile-accessibility",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WAC_Stage5.png",
+      "earned_date":"2019-06-01T05:13:01.000Z",
+      "courses":[
+        {
+          "title":"Web Accessibility Compliance",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance",
+          "badge_count":1
+        },
+        {
+          "title":"Mobile Accessibility",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance/mobile-accessibility",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12622,
+      "name":"Testing for Accessibility ",
+      "url":"https://teamtreehouse.com/library/web-accessibility-compliance/testing-for-accessibility",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_WAC_Stage6.png",
+      "earned_date":"2019-06-01T05:25:18.000Z",
+      "courses":[
+        {
+          "title":"Web Accessibility Compliance",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance",
+          "badge_count":1
+        },
+        {
+          "title":"Testing for Accessibility",
+          "url":"https://teamtreehouse.com/library/web-accessibility-compliance/testing-for-accessibility",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":408,
+      "name":"Chrome DevTools Basics",
+      "url":"https://teamtreehouse.com/library/website-optimization/chrome-devtools-basics",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_chromeDev_Stage1.png",
+      "earned_date":"2019-06-01T18:01:35.000Z",
+      "courses":[
+        {
+          "title":"Website Optimization",
+          "url":"https://teamtreehouse.com/library/website-optimization",
+          "badge_count":1
+        },
+        {
+          "title":"Chrome DevTools Basics",
+          "url":"https://teamtreehouse.com/library/website-optimization/chrome-devtools-basics",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15992,
+      "name":"JavaScript is Everywhere",
+      "url":"https://teamtreehouse.com/library/the-landscape-of-javascript/javascript-is-everywhere",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_the-landscape-of-javascript_stage1.png",
+      "earned_date":"2019-06-02T19:29:17.000Z",
+      "courses":[
+        {
+          "title":"The Landscape of JavaScript",
+          "url":"https://teamtreehouse.com/library/the-landscape-of-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"JavaScript is Everywhere",
+          "url":"https://teamtreehouse.com/library/the-landscape-of-javascript/javascript-is-everywhere",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16002,
+      "name":"JavaScript Tools and Workflows",
+      "url":"https://teamtreehouse.com/library/the-landscape-of-javascript/javascript-tools-and-workflows",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_the-landscape-of-javascript_stage2.png",
+      "earned_date":"2019-06-02T19:42:05.000Z",
+      "courses":[
+        {
+          "title":"The Landscape of JavaScript",
+          "url":"https://teamtreehouse.com/library/the-landscape-of-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"JavaScript Tools and Workflows",
+          "url":"https://teamtreehouse.com/library/the-landscape-of-javascript/javascript-tools-and-workflows",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15092,
+      "name":"Defining Variables With let and const",
+      "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2/defining-variables-with-let-and-const",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_introducing-es2015_stage1.png",
+      "earned_date":"2019-06-02T19:58:32.000Z",
+      "courses":[
+        {
+          "title":"Getting Started With ES2015",
+          "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2",
+          "badge_count":1
+        },
+        {
+          "title":"Defining Variables With let and const",
+          "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2/defining-variables-with-let-and-const",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15102,
+      "name":"Using Template Literals",
+      "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2/using-template-literals",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_introducing-es2015_stage2.png",
+      "earned_date":"2019-06-02T20:23:30.000Z",
+      "courses":[
+        {
+          "title":"Getting Started With ES2015",
+          "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2",
+          "badge_count":1
+        },
+        {
+          "title":"Using Template Literals",
+          "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2/using-template-literals",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15112,
+      "name":"Create Function Using Arrow Syntax",
+      "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2/create-functions-using-arrow-syntax",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_introducing-es2015_stage3.png",
+      "earned_date":"2019-06-02T20:43:45.000Z",
+      "courses":[
+        {
+          "title":"Getting Started With ES2015",
+          "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2",
+          "badge_count":1
+        },
+        {
+          "title":"Create Functions Using Arrow Syntax",
+          "url":"https://teamtreehouse.com/library/getting-started-with-es2015-2/create-functions-using-arrow-syntax",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11732,
+      "name":"Adding and Removing Names",
+      "url":"https://teamtreehouse.com/library/dom-scripting-by-example/adding-and-removing-names",
+      "icon_url":"https://achievement-images.teamtreehouse.com/naming.png",
+      "earned_date":"2019-06-02T22:00:23.000Z",
+      "courses":[
+        {
+          "title":"DOM Scripting By Example",
+          "url":"https://teamtreehouse.com/library/dom-scripting-by-example",
+          "badge_count":1
+        },
+        {
+          "title":"Adding and Removing Names",
+          "url":"https://teamtreehouse.com/library/dom-scripting-by-example/adding-and-removing-names",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11742,
+      "name":"Editing and Filtering Names",
+      "url":"https://teamtreehouse.com/library/dom-scripting-by-example/editing-and-filtering-names",
+      "icon_url":"https://achievement-images.teamtreehouse.com/filter.png",
+      "earned_date":"2019-06-02T22:25:22.000Z",
+      "courses":[
+        {
+          "title":"DOM Scripting By Example",
+          "url":"https://teamtreehouse.com/library/dom-scripting-by-example",
+          "badge_count":1
+        },
+        {
+          "title":"Editing and Filtering Names",
+          "url":"https://teamtreehouse.com/library/dom-scripting-by-example/editing-and-filtering-names",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":11752,
+      "name":"Improving the Application Code",
+      "url":"https://teamtreehouse.com/library/dom-scripting-by-example/improving-the-application-code",
+      "icon_url":"https://achievement-images.teamtreehouse.com/cleanCode.png",
+      "earned_date":"2019-06-02T22:55:25.000Z",
+      "courses":[
+        {
+          "title":"DOM Scripting By Example",
+          "url":"https://teamtreehouse.com/library/dom-scripting-by-example",
+          "badge_count":1
+        },
+        {
+          "title":"Improving the Application Code",
+          "url":"https://teamtreehouse.com/library/dom-scripting-by-example/improving-the-application-code",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":17182,
+      "name":"Practicing Getters and Setters",
+      "url":"https://teamtreehouse.com/library/practice-getters-and-setters-in-javascript/practicing-getters-and-setters",
+      "icon_url":"https://achievement-images.teamtreehouse.com/stage4.png",
+      "earned_date":"2019-06-02T23:26:52.000Z",
+      "courses":[
+        {
+          "title":"Practice Getters and Setters in JavaScript",
+          "url":"https://teamtreehouse.com/library/practice-getters-and-setters-in-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"Practicing Getters and Setters",
+          "url":"https://teamtreehouse.com/library/practice-getters-and-setters-in-javascript/practicing-getters-and-setters",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14912,
+      "name":"Array Iteration",
+      "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods/array-iteration",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_javascript-array-iteration-methods_stage01.png",
+      "earned_date":"2019-06-02T23:45:41.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Array Iteration Methods",
+          "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods",
+          "badge_count":1
+        },
+        {
+          "title":"Array Iteration",
+          "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods/array-iteration",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":15272,
+      "name":"Practice forEach",
+      "url":"https://teamtreehouse.com/library/practice-foreach-in-javascript/practice-foreach",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_Practice-Array-Iteration-Methods_stage1.png",
+      "earned_date":"2019-06-03T05:26:00.000Z",
+      "courses":[
+        {
+          "title":"Practice forEach in JavaScript",
+          "url":"https://teamtreehouse.com/library/practice-foreach-in-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"Practice forEach",
+          "url":"https://teamtreehouse.com/library/practice-foreach-in-javascript/practice-foreach",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14922,
+      "name":"Array Manipulation",
+      "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods/array-manipulation",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_javascript-array-iteration-methods_stage02.png",
+      "earned_date":"2019-06-03T05:47:02.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Array Iteration Methods",
+          "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods",
+          "badge_count":1
+        },
+        {
+          "title":"Array Manipulation",
+          "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods/array-manipulation",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14932,
+      "name":"Combining Array Methods",
+      "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods/combining-array-methods",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_javascript-array-iteration-methods_stage03.png",
+      "earned_date":"2019-06-03T07:11:19.000Z",
+      "courses":[
+        {
+          "title":"JavaScript Array Iteration Methods",
+          "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods",
+          "badge_count":1
+        },
+        {
+          "title":"Combining Array Methods",
+          "url":"https://teamtreehouse.com/library/javascript-array-iteration-methods/combining-array-methods",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3282,
+      "name":"Treehouse Club - JavaScript",
+      "url":"https://teamtreehouse.com/library/treehouse-club-javascript/car-sounds",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge-thjr-hacker03.png",
+      "earned_date":"2019-06-03T16:32:42.000Z",
+      "courses":[
+        {
+          "title":"Treehouse Club: JavaScript",
+          "url":"https://teamtreehouse.com/library/treehouse-club-javascript",
+          "badge_count":1
+        },
+        {
+          "title":"Car Sounds ",
+          "url":"https://teamtreehouse.com/library/treehouse-club-javascript/car-sounds",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3952,
+      "name":"MASH HTML",
+      "url":"https://teamtreehouse.com/library/treehouse-club-mash/mash-html",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-jr-mash-stage1.png",
+      "earned_date":"2019-06-03T16:46:33.000Z",
+      "courses":[
+        {
+          "title":"Treehouse Club - MASH",
+          "url":"https://teamtreehouse.com/library/treehouse-club-mash",
+          "badge_count":1
+        },
+        {
+          "title":"MASH - HTML",
+          "url":"https://teamtreehouse.com/library/treehouse-club-mash/mash-html",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4012,
+      "name":"MASH CSS",
+      "url":"https://teamtreehouse.com/library/treehouse-club-mash/mash-css",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-jr-mash-stage2.png",
+      "earned_date":"2019-06-03T18:40:45.000Z",
+      "courses":[
+        {
+          "title":"Treehouse Club - MASH",
+          "url":"https://teamtreehouse.com/library/treehouse-club-mash",
+          "badge_count":1
+        },
+        {
+          "title":"MASH - CSS",
+          "url":"https://teamtreehouse.com/library/treehouse-club-mash/mash-css",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":4022,
+      "name":"MASH JavaScript",
+      "url":"https://teamtreehouse.com/library/treehouse-club-mash/mash-javascript",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges-jr-mash-stage3.png",
+      "earned_date":"2019-06-03T19:02:44.000Z",
+      "courses":[
+        {
+          "title":"Treehouse Club - MASH",
+          "url":"https://teamtreehouse.com/library/treehouse-club-mash",
+          "badge_count":1
+        },
+        {
+          "title":"MASH - JavaScript",
+          "url":"https://teamtreehouse.com/library/treehouse-club-mash/mash-javascript",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":16342,
+      "name":"Introducing 'Four in a Row'",
+      "url":"https://teamtreehouse.com/library/objectoriented-javascript-challenge/introducing-four-in-a-row",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_Object-Oriented_JavaScript_by_Exp_stage1.png",
+      "earned_date":"2019-06-04T01:57:00.000Z",
+      "courses":[
+        {
+          "title":"Object-Oriented JavaScript: Challenge",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-challenge",
+          "badge_count":1
+        },
+        {
+          "title":"Introducing 'Four in a Row'",
+          "url":"https://teamtreehouse.com/library/objectoriented-javascript-challenge/introducing-four-in-a-row",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3352,
+      "name":"Introduction to Typography",
+      "url":"https://teamtreehouse.com/library/web-typography/introduction-to-typography",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_webtype_Stage1.png",
+      "earned_date":"2019-06-04T02:44:57.000Z",
+      "courses":[
+        {
+          "title":"Web Typography",
+          "url":"https://teamtreehouse.com/library/web-typography",
+          "badge_count":1
+        },
+        {
+          "title":"Introduction to Typography",
+          "url":"https://teamtreehouse.com/library/web-typography/introduction-to-typography",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3362,
+      "name":"How to Choose and Use Webfonts",
+      "url":"https://teamtreehouse.com/library/web-typography/how-to-choose-and-use-webfonts",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_webtype_Stage2.png",
+      "earned_date":"2019-06-05T15:57:10.000Z",
+      "courses":[
+        {
+          "title":"Web Typography",
+          "url":"https://teamtreehouse.com/library/web-typography",
+          "badge_count":1
+        },
+        {
+          "title":"How to Choose and Use Webfonts",
+          "url":"https://teamtreehouse.com/library/web-typography/how-to-choose-and-use-webfonts",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3372,
+      "name":"Basic Web Typography",
+      "url":"https://teamtreehouse.com/library/web-typography/basic-web-typography",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_webtype_Stage3.png",
+      "earned_date":"2019-06-06T16:22:02.000Z",
+      "courses":[
+        {
+          "title":"Web Typography",
+          "url":"https://teamtreehouse.com/library/web-typography",
+          "badge_count":1
+        },
+        {
+          "title":"Basic Web Typography",
+          "url":"https://teamtreehouse.com/library/web-typography/basic-web-typography",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3382,
+      "name":"Laying Out Type for the Web",
+      "url":"https://teamtreehouse.com/library/web-typography/laying-out-type-for-the-web",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_webtype_Stage4.png",
+      "earned_date":"2019-06-07T16:41:20.000Z",
+      "courses":[
+        {
+          "title":"Web Typography",
+          "url":"https://teamtreehouse.com/library/web-typography",
+          "badge_count":1
+        },
+        {
+          "title":"Laying Out Type for the Web",
+          "url":"https://teamtreehouse.com/library/web-typography/laying-out-type-for-the-web",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3392,
+      "name":"Final Project: Create a Typographic Site",
+      "url":"https://teamtreehouse.com/library/web-typography/final-project-create-a-typographic-site",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_webtype_Stage5.png",
+      "earned_date":"2019-06-07T21:53:45.000Z",
+      "courses":[
+        {
+          "title":"Web Typography",
+          "url":"https://teamtreehouse.com/library/web-typography",
+          "badge_count":1
+        },
+        {
+          "title":"Final Project: Create a Typographic Site",
+          "url":"https://teamtreehouse.com/library/web-typography/final-project-create-a-typographic-site",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14532,
+      "name":"Page Layout",
+      "url":"https://teamtreehouse.com/library/prototyping-in-the-browser/page-layout",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_prototyping-browser_stage1--page-layout.png",
+      "earned_date":"2019-06-07T22:24:33.000Z",
+      "courses":[
+        {
+          "title":"Prototyping in the Browser",
+          "url":"https://teamtreehouse.com/library/prototyping-in-the-browser",
+          "badge_count":1
+        },
+        {
+          "title":"Page Layout",
+          "url":"https://teamtreehouse.com/library/prototyping-in-the-browser/page-layout",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14542,
+      "name":"Design Patterns",
+      "url":"https://teamtreehouse.com/library/prototyping-in-the-browser/design-patterns",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_prototyping-browser_stage2--design-patterns.png",
+      "earned_date":"2019-06-08T01:26:32.000Z",
+      "courses":[
+        {
+          "title":"Prototyping in the Browser",
+          "url":"https://teamtreehouse.com/library/prototyping-in-the-browser",
+          "badge_count":1
+        },
+        {
+          "title":"Design Patterns",
+          "url":"https://teamtreehouse.com/library/prototyping-in-the-browser/design-patterns",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":6612,
+      "name":"Transitions and Transforms",
+      "url":"https://teamtreehouse.com/library/animating-svg-with-css/transitions-and-transforms",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_svganimation_stage01.png",
+      "earned_date":"2019-06-08T01:54:53.000Z",
+      "courses":[
+        {
+          "title":"Animating SVG with CSS",
+          "url":"https://teamtreehouse.com/library/animating-svg-with-css",
+          "badge_count":1
+        },
+        {
+          "title":"Transitions and Transforms",
+          "url":"https://teamtreehouse.com/library/animating-svg-with-css/transitions-and-transforms",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":6622,
+      "name":"Keyframe and Line Drawing Animations",
+      "url":"https://teamtreehouse.com/library/animating-svg-with-css/keyframe-and-line-drawing-animations",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_svganimation_stage02.png",
+      "earned_date":"2019-06-08T02:23:55.000Z",
+      "courses":[
+        {
+          "title":"Animating SVG with CSS",
+          "url":"https://teamtreehouse.com/library/animating-svg-with-css",
+          "badge_count":1
+        },
+        {
+          "title":"Keyframe and Line Drawing Animations",
+          "url":"https://teamtreehouse.com/library/animating-svg-with-css/keyframe-and-line-drawing-animations",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12882,
+      "name":"Getting Started with Sass",
+      "url":"https://teamtreehouse.com/library/sass-basics-2/getting-started-with-sass",
+      "icon_url":"https://achievement-images.teamtreehouse.com/1.png",
+      "earned_date":"2019-06-08T02:59:39.000Z",
+      "courses":[
+        {
+          "title":"Sass Basics",
+          "url":"https://teamtreehouse.com/library/sass-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started with Sass",
+          "url":"https://teamtreehouse.com/library/sass-basics-2/getting-started-with-sass",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12892,
+      "name":"Improve Your Workflow with Sass",
+      "url":"https://teamtreehouse.com/library/sass-basics-2/improve-your-workflow-with-sass",
+      "icon_url":"https://achievement-images.teamtreehouse.com/2.png",
+      "earned_date":"2019-06-08T03:40:56.000Z",
+      "courses":[
+        {
+          "title":"Sass Basics",
+          "url":"https://teamtreehouse.com/library/sass-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Improve Your Workflow with Sass",
+          "url":"https://teamtreehouse.com/library/sass-basics-2/improve-your-workflow-with-sass",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12902,
+      "name":"Write Smart and Efficient CSS with Sass",
+      "url":"https://teamtreehouse.com/library/sass-basics-2/write-smart-and-efficient-css-with-sass",
+      "icon_url":"https://achievement-images.teamtreehouse.com/3.png",
+      "earned_date":"2019-06-08T04:28:05.000Z",
+      "courses":[
+        {
+          "title":"Sass Basics",
+          "url":"https://teamtreehouse.com/library/sass-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Write Smart and Efficient CSS with Sass",
+          "url":"https://teamtreehouse.com/library/sass-basics-2/write-smart-and-efficient-css-with-sass",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":12912,
+      "name":"Add Reusable Logic to Your Sass",
+      "url":"https://teamtreehouse.com/library/sass-basics-2/add-reusable-logic-to-your-sass",
+      "icon_url":"https://achievement-images.teamtreehouse.com/4.png",
+      "earned_date":"2019-06-08T05:23:20.000Z",
+      "courses":[
+        {
+          "title":"Sass Basics",
+          "url":"https://teamtreehouse.com/library/sass-basics-2",
+          "badge_count":1
+        },
+        {
+          "title":"Add Reusable Logic to Your Sass",
+          "url":"https://teamtreehouse.com/library/sass-basics-2/add-reusable-logic-to-your-sass",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14192,
+      "name":"Introducing Grid Layout",
+      "url":"https://teamtreehouse.com/library/css-grid-layout/introducing-grid-layout",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_css-grid-layout_stage1.png",
+      "earned_date":"2019-06-08T06:28:08.000Z",
+      "courses":[
+        {
+          "title":"CSS Grid Layout",
+          "url":"https://teamtreehouse.com/library/css-grid-layout",
+          "badge_count":1
+        },
+        {
+          "title":"Introducing Grid Layout",
+          "url":"https://teamtreehouse.com/library/css-grid-layout/introducing-grid-layout",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14202,
+      "name":"Flexible Sized Grids",
+      "url":"https://teamtreehouse.com/library/css-grid-layout/flexible-sized-grids",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_css-grid-layout_stage2.png",
+      "earned_date":"2019-06-08T07:01:39.000Z",
+      "courses":[
+        {
+          "title":"CSS Grid Layout",
+          "url":"https://teamtreehouse.com/library/css-grid-layout",
+          "badge_count":1
+        },
+        {
+          "title":"Flexible Sized Grids",
+          "url":"https://teamtreehouse.com/library/css-grid-layout/flexible-sized-grids",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":14212,
+      "name":"Going Further with Grid Layout",
+      "url":"https://teamtreehouse.com/library/css-grid-layout/going-further-with-grid-layout",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badge_css-grid-layout_stage3.png",
+      "earned_date":"2019-06-08T17:47:12.000Z",
+      "courses":[
+        {
+          "title":"CSS Grid Layout",
+          "url":"https://teamtreehouse.com/library/css-grid-layout",
+          "badge_count":1
+        },
+        {
+          "title":"Going Further with Grid Layout",
+          "url":"https://teamtreehouse.com/library/css-grid-layout/going-further-with-grid-layout",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3292,
+      "name":"Getting Started with Advanced Sass",
+      "url":"https://teamtreehouse.com/library/advanced-sass/getting-started",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_advancedsass_stage01.png",
+      "earned_date":"2019-06-10T05:15:56.000Z",
+      "courses":[
+        {
+          "title":"Advanced Sass",
+          "url":"https://teamtreehouse.com/library/advanced-sass",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Started",
+          "url":"https://teamtreehouse.com/library/advanced-sass/getting-started",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3302,
+      "name":"Advanced Variables, Mixins, Functions, and Placeholders",
+      "url":"https://teamtreehouse.com/library/advanced-sass/advanced-variables-mixins-functions-and-placeholders",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_advancedsass_stage02.png",
+      "earned_date":"2019-06-12T21:53:49.000Z",
+      "courses":[
+        {
+          "title":"Advanced Sass",
+          "url":"https://teamtreehouse.com/library/advanced-sass",
+          "badge_count":1
+        },
+        {
+          "title":"Advanced Variables, Mixins, Functions, and Placeholders",
+          "url":"https://teamtreehouse.com/library/advanced-sass/advanced-variables-mixins-functions-and-placeholders",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3312,
+      "name":"Concepts on Advanced Functions",
+      "url":"https://teamtreehouse.com/library/advanced-sass/advanced-functions",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_advancedsass_stage03.png",
+      "earned_date":"2019-06-13T16:21:52.000Z",
+      "courses":[
+        {
+          "title":"Advanced Sass",
+          "url":"https://teamtreehouse.com/library/advanced-sass",
+          "badge_count":1
+        },
+        {
+          "title":"Advanced Functions",
+          "url":"https://teamtreehouse.com/library/advanced-sass/advanced-functions",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3322,
+      "name":"Advanced Directives",
+      "url":"https://teamtreehouse.com/library/advanced-sass/advanced-directives",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_advancedsass_stage04.png",
+      "earned_date":"2019-06-14T16:58:54.000Z",
+      "courses":[
+        {
+          "title":"Advanced Sass",
+          "url":"https://teamtreehouse.com/library/advanced-sass",
+          "badge_count":1
+        },
+        {
+          "title":"Advanced Directives",
+          "url":"https://teamtreehouse.com/library/advanced-sass/advanced-directives",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3332,
+      "name":"Getting Modular with Mixins and Functions",
+      "url":"https://teamtreehouse.com/library/modular-css-with-sass/getting-modular-with-mixins-and-functions",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_modularsass_stage01.png",
+      "earned_date":"2019-06-17T20:13:52.000Z",
+      "courses":[
+        {
+          "title":"Modular CSS with Sass",
+          "url":"https://teamtreehouse.com/library/modular-css-with-sass",
+          "badge_count":1
+        },
+        {
+          "title":"Getting Modular with Mixins and Functions",
+          "url":"https://teamtreehouse.com/library/modular-css-with-sass/getting-modular-with-mixins-and-functions",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":3052,
+      "name":"Sass and BEM",
+      "url":"https://teamtreehouse.com/library/modular-css-with-sass/sass-and-bem",
+      "icon_url":"https://achievement-images.teamtreehouse.com/badges_css_modularsass_stage02.png",
+      "earned_date":"2019-06-24T16:00:13.000Z",
+      "courses":[
+        {
+          "title":"Modular CSS with Sass",
+          "url":"https://teamtreehouse.com/library/modular-css-with-sass",
+          "badge_count":1
+        },
+        {
+          "title":"Sass and BEM",
+          "url":"https://teamtreehouse.com/library/modular-css-with-sass/sass-and-bem",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":392,
+      "name":"Logo Design 101",
+      "url":"https://teamtreehouse.com/library/logo-design-basics/logo-design-101",
+      "icon_url":"https://achievement-images.teamtreehouse.com/LogoDesign101.png",
+      "earned_date":"2019-08-27T05:07:20.000Z",
+      "courses":[
+        {
+          "title":"Logo Design Basics",
+          "url":"https://teamtreehouse.com/library/logo-design-basics",
+          "badge_count":1
+        },
+        {
+          "title":"Logo Design 101",
+          "url":"https://teamtreehouse.com/library/logo-design-basics/logo-design-101",
+          "badge_count":1
+        }
+      ]
+    },
+    {
+      "id":393,
+      "name":"The Logo Sprint",
+      "url":"https://teamtreehouse.com/library/logo-design-basics/the-logo-sprint",
+      "icon_url":"https://achievement-images.teamtreehouse.com/LogoSprint.png",
+      "earned_date":"2019-08-27T05:19:33.000Z",
+      "courses":[
+        {
+          "title":"Logo Design Basics",
+          "url":"https://teamtreehouse.com/library/logo-design-basics",
+          "badge_count":1
+        },
+        {
+          "title":"The Logo Sprint",
+          "url":"https://teamtreehouse.com/library/logo-design-basics/the-logo-sprint",
+          "badge_count":1
+        }
+      ]
+    }
+  ],
+  "points":{
+    "total":11707,
+    "HTML":1162,
+    "CSS":2125,
+    "Design":679,
+    "JavaScript":5300,
+    "Ruby":0,
+    "PHP":0,
+    "iOS":0,
+    "Android":0,
+    "Development Tools":604,
+    "Business":0,
+    "Python":0,
+    "Java":0,
+    "Digital Literacy":160,
+    "C#":0,
+    "Databases":0,
+    "Data Analysis":0,
+    "APIs":234,
+    "Security":0,
+    "Go":0,
+    "Quality Assurance":0,
+    "Machine Learning":0,
+    "Learning Resources":0,
+    "Computer Science":0,
+    "Swift":0
+  }
+}

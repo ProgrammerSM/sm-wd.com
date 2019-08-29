@@ -13,17 +13,16 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    `gatsby-transformer-json`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/assets/data/`,
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
-    {
-      resolve: 'gatsby-source-graphql',
-      options: {
-        typeName: 'treehouse',
-        fieldName: 'treehouseSM',
-        url: 'https://teamtreehouse.com/sterlingmay.json'
-      }
-    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

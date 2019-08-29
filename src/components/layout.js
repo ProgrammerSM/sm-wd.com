@@ -3,11 +3,11 @@ import PropTypes from 'prop-types'
 // import { StaticQuery, graphql } from 'gatsby'
 
 import { ThemeProvider } from 'emotion-theming'
-import theme from '../assets/theme'
+import theme from '../assets/js/theme'
 import styled from '@emotion/styled'
 
-import '../assets/reset.scss'
-import '../assets/layout.scss'
+import '../assets/scss/reset.scss'
+import '../assets/scss/layout.scss'
 
 import Header from './header'
 import Container from './container'
