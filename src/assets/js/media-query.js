@@ -1,10 +1,10 @@
 const breakpoints = {
-  'small': [],
-  'medium': [],
-  'medium-up': [],
-  'medium-down': [],
-  'large': [],
-  'large-up': []
+  'small': [0, 640],
+  'medium': [641, 1024],
+  'medium-up': [641],
+  'medium-down': [1024],
+  'large': [1025, 1440],
+  'large-up': [1025]
 }
 
 Object.keys(breakpoints).map(key => {

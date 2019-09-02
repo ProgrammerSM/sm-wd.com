@@ -15,8 +15,12 @@ h3 {
 
 h1 {
   margin: 0 0 .3em;
-  font-size: 3.052rem;
+  font-size: 2rem;
   line-height: 1.4;
+
+  @media screen and (min-width: 768px) {
+    font-size: 3.052rem;
+  }
 }
 
 h2 {
