@@ -15,12 +15,17 @@ const MyBadges = styled.section`
 const MyPoints = styled.section`
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
   margin: 0 10px;
+  padding-top: 10px;
   border: solid 1px black;
   border-radius: 8px;
 
   .points-item {
+    margin: 5px;
     padding: 5px 10px;
+    border: solid 1px dodgerblue; 
+    border-radius: 8px;
   }
 `
 
@@ -70,6 +75,7 @@ const SecondPage = ({ data }) => {
                   key={pointType} 
                   css={{
                     width: '100%',
+                    marginTop: '10px',
                     padding: '10px',
                     backgroundColor: 'black',
                     color: 'white',

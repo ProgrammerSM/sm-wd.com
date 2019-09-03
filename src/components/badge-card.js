@@ -105,7 +105,7 @@ const BadgeCard = badgeData => (
           <h3 className="badge-title">{badgeData.name}</h3>
           <p className="badge-date">Earned on: <span>{badgeData.earnedDate}</span></p>
         </div>
-        { badgeData.courses.length !== 0 ? <Courses courseData = {badgeData.courses}/> : <p className="no-courses">No Courses Included.</p> }
+        { badgeData.courses.length !== 0 ? <Courses courseData = {badgeData.courses}/> : <p className="no-courses">No Course Required.</p> }
       </div>
     
     </div>

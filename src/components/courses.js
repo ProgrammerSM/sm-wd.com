@@ -21,7 +21,7 @@ const CoursesWrapper = styled.div`
 
 const Courses = courseData => (  
   <CoursesWrapper>
-    <p>Courses Included:</p>
+    <p>Can Be Aquired in:</p>
     <ol>
       {
         courseData.courseData.map(course => {
