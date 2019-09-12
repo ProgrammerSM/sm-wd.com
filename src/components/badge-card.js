@@ -2,7 +2,7 @@ import React from 'react'
 import styled from '@emotion/styled'
 import { small, medium, mediumUp, largeUp } from '../assets/js/media-query'
 
-import Courses from '../components/courses'
+import Courses from './courses'
 
 const BadgeCardWrapper = styled.div`
   width: 100%;
@@ -45,7 +45,7 @@ const BadgeCardWrapper = styled.div`
     width: 80px;
     height: auto;
   }
-  
+
   .badge-info {
     display: flex;
     flex-direction: column;
@@ -89,27 +89,30 @@ const BadgeCardWrapper = styled.div`
 
 const BadgeCard = badgeData => (
   <BadgeCardWrapper>
-    
+
     <div className="badge-card">
-      
+
       <div className="badge-icon-container">
-        <img 
+        <img
           className="badge-icon"
-          src={badgeData.icon} 
+          src={badgeData.icon}
           alt={`${badgeData.name} badge icon`}
         />
       </div>
-      
+
       <div className="badge-info">
         <div className="top-part">
           <h3 className="badge-title">{badgeData.name}</h3>
-          <p className="badge-date">Earned on: <span>{badgeData.earnedDate}</span></p>
+          <p className="badge-date">
+            { 'Earned on: ' }
+            <span>{badgeData.earnedDate}</span>
+          </p>
         </div>
-        { badgeData.courses.length !== 0 ? <Courses courseData = {badgeData.courses}/> : <p className="no-courses">No Course Required.</p> }
+        { badgeData.courses.length !== 0 ? <Courses courseData={badgeData.courses} /> : <p className="no-courses">No Course Required.</p> }
       </div>
-    
+
     </div>
-  
+
   </BadgeCardWrapper>
 )
 

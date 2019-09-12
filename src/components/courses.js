@@ -8,7 +8,7 @@ const CoursesWrapper = styled.div`
     flex-direction: column;
     align-items: center;
   }
-  
+
   p {
     margin-bottom: 2px;
   }
@@ -19,17 +19,13 @@ const CoursesWrapper = styled.div`
   }
 `
 
-const Courses = courseData => (  
+const Courses = courseData => (
   <CoursesWrapper>
     <p>Can Be Aquired in:</p>
     <ol>
-      {
-        courseData.courseData.map(course => {
-          return (<li key = {course.title}>{course.title}</li>)
-        })
-      }
+      { courseData.courseData.map(course => <li key={course.title}>{course.title}</li>) }
     </ol>
-  </CoursesWrapper>  
+  </CoursesWrapper>
 )
 
 export default Courses

@@ -1,16 +1,12 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import { PropTypes } from 'prop-types'
 import styled from '@emotion/styled'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
 import BadgeCard from '../components/badge-card'
-
-const MyBadges = styled.section`
-  display: flex;
-  flex-flow: row wrap;
-`
 
 const MyPoints = styled.section`
   display: flex;
@@ -24,55 +20,66 @@ const MyPoints = styled.section`
   .points-item {
     margin: 5px;
     padding: 5px 10px;
-    border: solid 1px dodgerblue; 
+    border: solid 1px dodgerblue;
     border-radius: 8px;
+    font-style: italic;
+
+    span {
+      font-style: normal;
+      font-weight: 600;
+    }
   }
 `
 
-const SecondPage = ({ data }) => {
-  const pointObj = data.allDataJson.edges[0].node.points
+const MyBadges = styled.section`
+  display: flex;
+  flex-flow: row wrap;
+`
 
-  Object.size = function(obj) {
-    var size = 0, key
-    for (key in obj) {
-        if (obj.hasOwnProperty(key)) size++
+const SecondPage = ({ data }) => {
+
+  const pointObj = data.allDataJson.edges[0].node.points
+  Object.size = obj => {
+    let size = 0, key
+    for (key in obj){
+      if (obj.hasOwnProperty(key)) size++
     }
-    return size;
+
+    return size
   }
 
   // Get the size of an object
   const size = Object.size(pointObj)
-  
+
   return (
     <Layout>
-      <SEO title='Treehouse Badges' />
-      
-      <h1 css={{ padding: '0 10px' }}>{data.allDataJson.edges[0].node.name}'s Earned Treehouse Badges</h1>
+      <SEO title="Treehouse Badges" />
+
+      <h1 css={{ padding: '0 10px' }}>{ `${data.allDataJson.edges[0].node.name}'s Earned Treehouse Badges` }</h1>
 
       <MyPoints>
-        {          
+        {
+          /* eslint-disable consistent-return */
           Object.keys(pointObj).map(pointType => {
 
-            const pointTypeUnderscoreSplit = pointType.split("_")
+            const pointTypeUnderscoreSplit = pointType.split('_')
+            const filteredPointType = pointTypeUnderscoreSplit.filter(value => value !== '')
+            let newPointType = null
 
-            const filteredPointType = pointTypeUnderscoreSplit.filter(value => {
-              return value !== ""
-            })
-            
             if (filteredPointType.length === 1) {
-              pointType = filteredPointType[0]
+              [newPointType] = filteredPointType
             } else {
-              pointType = filteredPointType.join(" ")
+              newPointType = filteredPointType.join(' ')
             }
 
-            if (pointObj[pointType] === undefined || pointObj[pointType] === "") {
-              pointObj[pointType] = 0
+            if (pointObj[newPointType] === undefined || pointObj[newPointType] === '' || pointObj[newPointType] === 0) {
+              return
             }
 
-            if (pointType === 'total') {
+            if (newPointType === 'total') {
               return (
-                <div 
-                  key={pointType} 
+                <div
+                  key={pointType}
                   css={{
                     width: '100%',
                     marginTop: '10px',
@@ -80,22 +87,28 @@ const SecondPage = ({ data }) => {
                     backgroundColor: 'black',
                     color: 'white',
                     textAlign: 'right',
-                    order: `${size}`,                     
+                    order: `${size}`,
                   }}
                 >
-                  Total: { pointObj[pointType] }
+                  {`Total Points: ${pointObj[newPointType]}`}
                 </div>
               )
+
             }
 
             return (
-              <div key={pointType} className="points-item">{ pointType }: { pointObj[pointType] }</div>
+              <div key={newPointType} className="points-item">
+                {`${newPointType}: `}
+                <span>{ pointObj[newPointType] }</span>
+              </div>
             )
-
           })
+          /* eslint-enable  consistent-return */
         }
       </MyPoints>
-      
+
+      {/* <input type="text" onChange={ filterBadges }/> */}
+
       <MyBadges>
         {
           data.allDataJson.edges[0].node.badges.map(badgeData => {
@@ -103,20 +116,26 @@ const SecondPage = ({ data }) => {
             const month = earnedDate.getMonth()
             const day = earnedDate.getDate()
             const year = earnedDate.getFullYear()
-            
-            return <BadgeCard 
-              key = {badgeData.id}
-              name = {badgeData.name}
-              icon = {badgeData.icon_url}
-              earnedDate = {`${month}/${day}/${year}`}
-              courses = {badgeData.courses}
-            />
+
+            return (
+              <BadgeCard
+                key={badgeData.id}
+                name={badgeData.name}
+                icon={badgeData.icon_url}
+                earnedDate={`${month}/${day}/${year}`}
+                courses={badgeData.courses}
+              />
+            )
           })
         }
-      </MyBadges>    
-    
+      </MyBadges>
+
     </Layout>
   )
+}
+
+SecondPage.propTypes = {
+  data: PropTypes.object.isRequired,
 }
 
 export default SecondPage
